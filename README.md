@@ -1,3 +1,3 @@
 # react folder
 This is my first react repository <br>
-Prepeared by zia
+Prepeared by zia (by apna college)
